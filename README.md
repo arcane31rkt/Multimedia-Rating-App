@@ -1,4 +1,6 @@
- The frontend of the application has been deployed via netlify (To test the website go to this link) - https://reliable-sunburst-746e5a.netlify.app/
+Made by Rohit Kumar Tiwari
+
+The frontend of the application has been deployed via netlify (To test the website go to this link) - https://reliable-sunburst-746e5a.netlify.app/
 
 To Run it on your local machine , download the source code as a zip:-
 
